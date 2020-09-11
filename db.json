@@ -3,7 +3,7 @@
   "products":[
   
     {
-      "id": "abc",
+      "id": 1,
       "name": "Some Name",
       "age": 32
     
@@ -11,7 +11,7 @@
     },
     
     {
-      "id": "def",
+      "id": 2,
       "name": "Some Other Name",
       "age": 24
       
@@ -19,7 +19,7 @@
     
     
     {
-      "id": "ghi",
+      "id": 3,
       "name": "Some Other Other Name",
       "age": 16
     
